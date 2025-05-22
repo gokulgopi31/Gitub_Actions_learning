@@ -3,7 +3,7 @@ name: Java, Python, and JS CI
 on: [push]
 
 jobs:
-  run-all:
+  java-python-javascript:
     runs-on: ubuntu-latest
 
     steps:
